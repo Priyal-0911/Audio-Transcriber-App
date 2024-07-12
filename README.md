@@ -2,6 +2,8 @@
 
 Welcome to the Audio Transcriber App! This is your one-stop solution for converting your audio files into text. Powered by the magic of OpenAI's Whisper model and the simplicity of Streamlit, this app ensures that your words are never lost, just transformed.
 
+![Whisper Transcriber](https://github.com/Priyal-0911/Audio-Transcriber-App/blob/32d90e4214211d41ecd4b2944a6ecf7427138e4b/waterlily-1508785045.jpg)
+
 ## 📜 What Does It Do?
 
 The Whisper Transcriber App takes in audio files in `.mp3` or `.wav` format and converts them into text. It's like having a personal scribe, but cooler and less demanding. 
