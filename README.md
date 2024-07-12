@@ -17,11 +17,11 @@ The Whisper Transcriber App takes in audio files in `.mp3` or `.wav` format and 
 To get started, simply clone this repository and run the Streamlit app:
 
 ```bash
-git clone https://github.com/yourusername/whisper-transcriber-app.git
+git clone https://github.com/yourusername/whisper-transcriber-app.git](https://github.com/Priyal-0911/Audio-Transcriber-App.git
 cd whisper-transcriber-app
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 📦 Requirements
 Python 3.8+
 Streamlit
@@ -31,7 +31,8 @@ You can install the required packages using:
 
 ```bash
 pip install streamlit torch
-pip install git+https://github.com/openai/whisper.git 
+pip install git+https://github.com/openai/whisper.git
+```
 🛠️ Code Breakdown
 Here's a quick rundown of what's happening under the hood:
 
